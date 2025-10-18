@@ -1,0 +1,11 @@
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Form1.resources
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe.config
