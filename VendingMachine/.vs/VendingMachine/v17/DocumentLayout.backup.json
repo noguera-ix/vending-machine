@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\VendingMachine\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FBFF2C7B-6578-4FF9-A366-48498724BDC0}|VendingMachine\\VendingMachine.csproj|d:\\documentos\\github\\m\u00E1quina expendedora\\vendingmachine\\vendingmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBFF2C7B-6578-4FF9-A366-48498724BDC0}|VendingMachine\\VendingMachine.csproj|solutionrelative:vendingmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FBFF2C7B-6578-4FF9-A366-48498724BDC0}|VendingMachine\\VendingMachine.csproj|d:\\documentos\\github\\m\u00E1quina expendedora\\vendingmachine\\vendingmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FBFF2C7B-6578-4FF9-A366-48498724BDC0}|VendingMachine\\VendingMachine.csproj|solutionrelative:vendingmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\VendingMachine\\VendingMachine\\Form1.cs",
+              "RelativeDocumentMoniker": "VendingMachine\\Form1.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\VendingMachine\\VendingMachine\\Form1.cs*",
+              "RelativeToolTip": "VendingMachine\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T03:22:58.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\VendingMachine\\VendingMachine\\Form1.cs",
               "RelativeDocumentMoniker": "VendingMachine\\Form1.cs",

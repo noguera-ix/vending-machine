@@ -9,3 +9,16 @@ D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debu
 D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
 D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
 D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe.config
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\cheetos.png
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\chips ahoy.png
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\coca cola.png
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\doritos.png
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\gatorade.png
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\kit kat.png
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\monster.png
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\oreo.png
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\pepsi.png
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\red bull.png
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\skittles.png
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\snickers.png
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\sprite.png
