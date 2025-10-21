@@ -22,3 +22,5 @@ D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debu
 D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\skittles.png
 D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\snickers.png
 D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\sprite.png
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\dr pepper.png
+D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\fanta.png

@@ -94,6 +94,12 @@
     <Content Include="assets\logos\doritos.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="assets\logos\dr pepper.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="assets\logos\fanta.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="assets\logos\gatorade.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
