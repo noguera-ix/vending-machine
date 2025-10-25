@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\VendingMachine\\",
+  "WorkspaceRootPath": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\vendingMachine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBFF2C7B-6578-4FF9-A366-48498724BDC0}|VendingMachine\\VendingMachine.csproj|d:\\documentos\\github\\m\u00E1quina expendedora\\vendingmachine\\vendingmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBFF2C7B-6578-4FF9-A366-48498724BDC0}|VendingMachine\\VendingMachine.csproj|solutionrelative:vendingmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D89EE236-E4F3-43EC-BC12-677A2A874192}|vendingMachine\\vendingMachine.csproj|d:\\documentos\\github\\m\u00E1quina expendedora\\vendingmachine\\vendingmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89EE236-E4F3-43EC-BC12-677A2A874192}|vendingMachine\\vendingMachine.csproj|solutionrelative:vendingmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBFF2C7B-6578-4FF9-A366-48498724BDC0}|VendingMachine\\VendingMachine.csproj|D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\VendingMachine\\vendingmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FBFF2C7B-6578-4FF9-A366-48498724BDC0}|VendingMachine\\VendingMachine.csproj|solutionrelative:vendingmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D89EE236-E4F3-43EC-BC12-677A2A874192}|vendingMachine\\vendingMachine.csproj|d:\\documentos\\github\\m\u00E1quina expendedora\\vendingmachine\\vendingmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D89EE236-E4F3-43EC-BC12-677A2A874192}|vendingMachine\\vendingMachine.csproj|solutionrelative:vendingmachine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89EE236-E4F3-43EC-BC12-677A2A874192}|vendingMachine\\vendingMachine.csproj|d:\\documentos\\github\\m\u00E1quina expendedora\\vendingmachine\\vendingmachine\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D89EE236-E4F3-43EC-BC12-677A2A874192}|vendingMachine\\vendingMachine.csproj|solutionrelative:vendingmachine\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89EE236-E4F3-43EC-BC12-677A2A874192}|vendingMachine\\vendingMachine.csproj|d:\\documentos\\github\\m\u00E1quina expendedora\\vendingmachine\\vendingmachine\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D89EE236-E4F3-43EC-BC12-677A2A874192}|vendingMachine\\vendingMachine.csproj|solutionrelative:vendingmachine\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89EE236-E4F3-43EC-BC12-677A2A874192}|vendingMachine\\vendingMachine.csproj|d:\\documentos\\github\\m\u00E1quina expendedora\\vendingmachine\\vendingmachine\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D89EE236-E4F3-43EC-BC12-677A2A874192}|vendingMachine\\vendingMachine.csproj|solutionrelative:vendingmachine\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\VendingMachine\\VendingMachine\\Form1.cs",
-              "RelativeDocumentMoniker": "VendingMachine\\Form1.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\VendingMachine\\VendingMachine\\Form1.cs",
-              "RelativeToolTip": "VendingMachine\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAABEAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\vendingMachine\\vendingMachine\\Form4.cs",
+              "RelativeDocumentMoniker": "vendingMachine\\Form4.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\vendingMachine\\vendingMachine\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "vendingMachine\\Form4.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T03:22:58.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T22:57:00.149Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\vendingMachine\\vendingMachine\\Form3.cs",
+              "RelativeDocumentMoniker": "vendingMachine\\Form3.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\vendingMachine\\vendingMachine\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "vendingMachine\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T22:52:12.259Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\vendingMachine\\vendingMachine\\Form2.cs",
+              "RelativeDocumentMoniker": "vendingMachine\\Form2.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\vendingMachine\\vendingMachine\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "vendingMachine\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T14:38:50.987Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\VendingMachine\\VendingMachine\\Form1.cs",
-              "RelativeDocumentMoniker": "VendingMachine\\Form1.cs",
-              "ToolTip": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\VendingMachine\\VendingMachine\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "VendingMachine\\Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\vendingMachine\\vendingMachine\\Form1.cs",
+              "RelativeDocumentMoniker": "vendingMachine\\Form1.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\vendingMachine\\vendingMachine\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "vendingMachine\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T23:49:11.123Z"
+              "WhenOpened": "2025-10-25T14:06:25.372Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\vendingMachine\\vendingMachine\\Form1.cs",
+              "RelativeDocumentMoniker": "vendingMachine\\Form1.cs",
+              "ToolTip": "D:\\Documentos\\GitHub\\M\u00E1quina Expendedora\\vendingMachine\\vendingMachine\\Form1.cs",
+              "RelativeToolTip": "vendingMachine\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T14:08:07.333Z",
+              "EditorCaption": ""
             }
           ]
         }

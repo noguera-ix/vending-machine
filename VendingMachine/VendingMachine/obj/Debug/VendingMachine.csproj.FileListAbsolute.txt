@@ -1,26 +1,31 @@
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Form1.resources
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Properties.Resources.resources
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.GenerateResource.cache
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe.config
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\cheetos.png
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\chips ahoy.png
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\coca cola.png
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\doritos.png
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\gatorade.png
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\kit kat.png
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\monster.png
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\oreo.png
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\pepsi.png
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\red bull.png
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\skittles.png
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\snickers.png
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\sprite.png
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\dr pepper.png
-D:\Documentos\GitHub\Máquina Expendedora\VendingMachine\VendingMachine\bin\Debug\assets\logos\fanta.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\vendingMachine.exe.config
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\vendingMachine.exe
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\vendingMachine.pdb
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\obj\Debug\vendingMachine.csproj.AssemblyReference.cache
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\obj\Debug\vendingMachine.Form1.resources
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\obj\Debug\vendingMachine.Form2.resources
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\obj\Debug\vendingMachine.Properties.Resources.resources
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\obj\Debug\vendingMachine.csproj.GenerateResource.cache
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\obj\Debug\vendingMachine.csproj.CoreCompileInputs.cache
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\obj\Debug\vendingMachine.exe
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\obj\Debug\vendingMachine.pdb
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\obj\Debug\vendingMachine.exe.config
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\logos\cheetos.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\logos\coca cola.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\logos\doritos.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\logos\dr pepper.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\logos\chips ahoy.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\logos\fanta.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\logos\gatorade.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\logos\kit kat.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\logos\monster.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\logos\oreo.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\logos\pepsi.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\logos\red bull.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\logos\skittles.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\logos\snickers.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\logos\sprite.png
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\obj\Debug\vendingMachine.Form3.resources
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\icons\settings.ico
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\obj\Debug\vendingMachine.Form4.resources
+D:\Documentos\GitHub\Máquina Expendedora\vendingMachine\vendingMachine\bin\Debug\assets\icons\bill.ico

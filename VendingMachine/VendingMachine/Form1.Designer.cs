@@ -1,4 +1,4 @@
-﻿namespace VendingMachine
+﻿namespace vendingMachine
 {
     partial class Form1
     {
@@ -28,25 +28,26 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.bproducto2 = new System.Windows.Forms.Button();
-            this.bproducto1 = new System.Windows.Forms.Button();
-            this.bproducto3 = new System.Windows.Forms.Button();
-            this.bproducto4 = new System.Windows.Forms.Button();
-            this.bproducto5 = new System.Windows.Forms.Button();
-            this.bproducto6 = new System.Windows.Forms.Button();
-            this.bproducto7 = new System.Windows.Forms.Button();
-            this.bproducto8 = new System.Windows.Forms.Button();
-            this.bproducto9 = new System.Windows.Forms.Button();
-            this.bproducto10 = new System.Windows.Forms.Button();
-            this.bproducto11 = new System.Windows.Forms.Button();
-            this.bproducto12 = new System.Windows.Forms.Button();
-            this.bproducto13 = new System.Windows.Forms.Button();
-            this.bproducto14 = new System.Windows.Forms.Button();
-            this.bproducto15 = new System.Windows.Forms.Button();
-            this.imageList1 = new System.Windows.Forms.ImageList(this.components);
+            this.btnProduct15 = new System.Windows.Forms.Button();
+            this.btnProduct14 = new System.Windows.Forms.Button();
+            this.btnProduct13 = new System.Windows.Forms.Button();
+            this.btnProduct12 = new System.Windows.Forms.Button();
+            this.btnProduct11 = new System.Windows.Forms.Button();
+            this.btnProduct10 = new System.Windows.Forms.Button();
+            this.btnProduct9 = new System.Windows.Forms.Button();
+            this.btnProduct8 = new System.Windows.Forms.Button();
+            this.btnProduct7 = new System.Windows.Forms.Button();
+            this.btnProduct6 = new System.Windows.Forms.Button();
+            this.btnProduct5 = new System.Windows.Forms.Button();
+            this.btnProduct4 = new System.Windows.Forms.Button();
+            this.btnProduct3 = new System.Windows.Forms.Button();
+            this.btnProduct2 = new System.Windows.Forms.Button();
+            this.btnProduct1 = new System.Windows.Forms.Button();
+            this.btnPay = new System.Windows.Forms.Button();
+            this.btnAdmin = new System.Windows.Forms.Button();
+            this.btnCashier = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -54,24 +55,25 @@
             // 
             this.tableLayoutPanel1.ColumnCount = 3;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33334F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33334F));
-            this.tableLayoutPanel1.Controls.Add(this.bproducto2, 1, 0);
-            this.tableLayoutPanel1.Controls.Add(this.bproducto1, 0, 0);
-            this.tableLayoutPanel1.Controls.Add(this.bproducto3, 2, 0);
-            this.tableLayoutPanel1.Controls.Add(this.bproducto4, 0, 1);
-            this.tableLayoutPanel1.Controls.Add(this.bproducto5, 1, 1);
-            this.tableLayoutPanel1.Controls.Add(this.bproducto6, 2, 1);
-            this.tableLayoutPanel1.Controls.Add(this.bproducto7, 0, 2);
-            this.tableLayoutPanel1.Controls.Add(this.bproducto8, 1, 2);
-            this.tableLayoutPanel1.Controls.Add(this.bproducto9, 2, 2);
-            this.tableLayoutPanel1.Controls.Add(this.bproducto10, 0, 3);
-            this.tableLayoutPanel1.Controls.Add(this.bproducto11, 1, 3);
-            this.tableLayoutPanel1.Controls.Add(this.bproducto12, 2, 3);
-            this.tableLayoutPanel1.Controls.Add(this.bproducto13, 0, 4);
-            this.tableLayoutPanel1.Controls.Add(this.bproducto14, 1, 4);
-            this.tableLayoutPanel1.Controls.Add(this.bproducto15, 2, 4);
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.tableLayoutPanel1.Controls.Add(this.btnProduct15, 2, 4);
+            this.tableLayoutPanel1.Controls.Add(this.btnProduct14, 1, 4);
+            this.tableLayoutPanel1.Controls.Add(this.btnProduct13, 0, 4);
+            this.tableLayoutPanel1.Controls.Add(this.btnProduct12, 2, 3);
+            this.tableLayoutPanel1.Controls.Add(this.btnProduct11, 1, 3);
+            this.tableLayoutPanel1.Controls.Add(this.btnProduct10, 0, 3);
+            this.tableLayoutPanel1.Controls.Add(this.btnProduct9, 2, 2);
+            this.tableLayoutPanel1.Controls.Add(this.btnProduct8, 1, 2);
+            this.tableLayoutPanel1.Controls.Add(this.btnProduct7, 0, 2);
+            this.tableLayoutPanel1.Controls.Add(this.btnProduct6, 2, 1);
+            this.tableLayoutPanel1.Controls.Add(this.btnProduct5, 1, 1);
+            this.tableLayoutPanel1.Controls.Add(this.btnProduct4, 0, 1);
+            this.tableLayoutPanel1.Controls.Add(this.btnProduct3, 2, 0);
+            this.tableLayoutPanel1.Controls.Add(this.btnProduct2, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.btnProduct1, 0, 0);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(14, 12);
+            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 5;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
@@ -79,146 +81,232 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 20F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(378, 450);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(335, 426);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
-            // bproducto2
+            // btnProduct15
             // 
-            this.bproducto2.Location = new System.Drawing.Point(128, 3);
-            this.bproducto2.Name = "bproducto2";
-            this.bproducto2.Size = new System.Drawing.Size(120, 84);
-            this.bproducto2.TabIndex = 1;
-            this.bproducto2.UseVisualStyleBackColor = true;
+            this.btnProduct15.Location = new System.Drawing.Point(226, 343);
+            this.btnProduct15.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnProduct15.Name = "btnProduct15";
+            this.btnProduct15.Size = new System.Drawing.Size(104, 79);
+            this.btnProduct15.TabIndex = 14;
+            this.btnProduct15.Text = "¢600";
+            this.btnProduct15.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProduct15.UseVisualStyleBackColor = true;
             // 
-            // bproducto1
+            // btnProduct14
             // 
-            this.bproducto1.Location = new System.Drawing.Point(3, 3);
-            this.bproducto1.Name = "bproducto1";
-            this.bproducto1.Size = new System.Drawing.Size(119, 84);
-            this.bproducto1.TabIndex = 1;
-            this.bproducto1.UseVisualStyleBackColor = true;
+            this.btnProduct14.Location = new System.Drawing.Point(115, 343);
+            this.btnProduct14.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnProduct14.Name = "btnProduct14";
+            this.btnProduct14.Size = new System.Drawing.Size(103, 79);
+            this.btnProduct14.TabIndex = 13;
+            this.btnProduct14.Text = "¢850";
+            this.btnProduct14.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProduct14.UseVisualStyleBackColor = true;
             // 
-            // bproducto3
+            // btnProduct13
             // 
-            this.bproducto3.Location = new System.Drawing.Point(254, 3);
-            this.bproducto3.Name = "bproducto3";
-            this.bproducto3.Size = new System.Drawing.Size(121, 84);
-            this.bproducto3.TabIndex = 2;
-            this.bproducto3.UseVisualStyleBackColor = true;
+            this.btnProduct13.Location = new System.Drawing.Point(4, 343);
+            this.btnProduct13.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnProduct13.Name = "btnProduct13";
+            this.btnProduct13.Size = new System.Drawing.Size(103, 79);
+            this.btnProduct13.TabIndex = 12;
+            this.btnProduct13.Text = "¢850";
+            this.btnProduct13.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProduct13.UseVisualStyleBackColor = true;
             // 
-            // bproducto4
+            // btnProduct12
             // 
-            this.bproducto4.Location = new System.Drawing.Point(3, 93);
-            this.bproducto4.Name = "bproducto4";
-            this.bproducto4.Size = new System.Drawing.Size(119, 84);
-            this.bproducto4.TabIndex = 3;
-            this.bproducto4.UseVisualStyleBackColor = true;
+            this.btnProduct12.Location = new System.Drawing.Point(226, 258);
+            this.btnProduct12.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnProduct12.Name = "btnProduct12";
+            this.btnProduct12.Size = new System.Drawing.Size(104, 79);
+            this.btnProduct12.TabIndex = 11;
+            this.btnProduct12.Text = "¢1 500";
+            this.btnProduct12.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProduct12.UseVisualStyleBackColor = true;
             // 
-            // bproducto5
+            // btnProduct11
             // 
-            this.bproducto5.Location = new System.Drawing.Point(128, 93);
-            this.bproducto5.Name = "bproducto5";
-            this.bproducto5.Size = new System.Drawing.Size(120, 84);
-            this.bproducto5.TabIndex = 4;
-            this.bproducto5.UseVisualStyleBackColor = true;
+            this.btnProduct11.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.btnProduct11.Location = new System.Drawing.Point(115, 258);
+            this.btnProduct11.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnProduct11.Name = "btnProduct11";
+            this.btnProduct11.Size = new System.Drawing.Size(103, 79);
+            this.btnProduct11.TabIndex = 10;
+            this.btnProduct11.Text = "¢600";
+            this.btnProduct11.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProduct11.UseVisualStyleBackColor = true;
             // 
-            // bproducto6
+            // btnProduct10
             // 
-            this.bproducto6.Location = new System.Drawing.Point(254, 93);
-            this.bproducto6.Name = "bproducto6";
-            this.bproducto6.Size = new System.Drawing.Size(121, 84);
-            this.bproducto6.TabIndex = 5;
-            this.bproducto6.UseVisualStyleBackColor = true;
+            this.btnProduct10.Location = new System.Drawing.Point(4, 258);
+            this.btnProduct10.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnProduct10.Name = "btnProduct10";
+            this.btnProduct10.Size = new System.Drawing.Size(103, 79);
+            this.btnProduct10.TabIndex = 9;
+            this.btnProduct10.Text = "¢1 850";
+            this.btnProduct10.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProduct10.UseVisualStyleBackColor = true;
             // 
-            // bproducto7
+            // btnProduct9
             // 
-            this.bproducto7.Location = new System.Drawing.Point(3, 183);
-            this.bproducto7.Name = "bproducto7";
-            this.bproducto7.Size = new System.Drawing.Size(119, 84);
-            this.bproducto7.TabIndex = 6;
-            this.bproducto7.UseVisualStyleBackColor = true;
+            this.btnProduct9.Location = new System.Drawing.Point(226, 173);
+            this.btnProduct9.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnProduct9.Name = "btnProduct9";
+            this.btnProduct9.Size = new System.Drawing.Size(104, 79);
+            this.btnProduct9.TabIndex = 8;
+            this.btnProduct9.Text = "¢1 500";
+            this.btnProduct9.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProduct9.UseVisualStyleBackColor = true;
             // 
-            // bproducto8
+            // btnProduct8
             // 
-            this.bproducto8.Location = new System.Drawing.Point(128, 183);
-            this.bproducto8.Name = "bproducto8";
-            this.bproducto8.Size = new System.Drawing.Size(120, 84);
-            this.bproducto8.TabIndex = 7;
-            this.bproducto8.UseVisualStyleBackColor = true;
+            this.btnProduct8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnProduct8.Location = new System.Drawing.Point(115, 173);
+            this.btnProduct8.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnProduct8.Name = "btnProduct8";
+            this.btnProduct8.Size = new System.Drawing.Size(103, 79);
+            this.btnProduct8.TabIndex = 7;
+            this.btnProduct8.Text = "¢850";
+            this.btnProduct8.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProduct8.UseVisualStyleBackColor = true;
             // 
-            // bproducto9
+            // btnProduct7
             // 
-            this.bproducto9.Location = new System.Drawing.Point(254, 183);
-            this.bproducto9.Name = "bproducto9";
-            this.bproducto9.Size = new System.Drawing.Size(121, 84);
-            this.bproducto9.TabIndex = 8;
-            this.bproducto9.UseVisualStyleBackColor = true;
+            this.btnProduct7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnProduct7.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.btnProduct7.Location = new System.Drawing.Point(4, 173);
+            this.btnProduct7.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnProduct7.Name = "btnProduct7";
+            this.btnProduct7.Size = new System.Drawing.Size(103, 79);
+            this.btnProduct7.TabIndex = 6;
+            this.btnProduct7.Text = "¢1 200";
+            this.btnProduct7.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProduct7.UseVisualStyleBackColor = true;
             // 
-            // bproducto10
+            // btnProduct6
             // 
-            this.bproducto10.Location = new System.Drawing.Point(3, 273);
-            this.bproducto10.Name = "bproducto10";
-            this.bproducto10.Size = new System.Drawing.Size(119, 84);
-            this.bproducto10.TabIndex = 9;
-            this.bproducto10.UseVisualStyleBackColor = true;
+            this.btnProduct6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnProduct6.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.btnProduct6.Location = new System.Drawing.Point(226, 88);
+            this.btnProduct6.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnProduct6.Name = "btnProduct6";
+            this.btnProduct6.Size = new System.Drawing.Size(104, 79);
+            this.btnProduct6.TabIndex = 5;
+            this.btnProduct6.Text = "¢600";
+            this.btnProduct6.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProduct6.UseVisualStyleBackColor = true;
             // 
-            // bproducto11
+            // btnProduct5
             // 
-            this.bproducto11.Location = new System.Drawing.Point(128, 273);
-            this.bproducto11.Name = "bproducto11";
-            this.bproducto11.Size = new System.Drawing.Size(120, 84);
-            this.bproducto11.TabIndex = 10;
-            this.bproducto11.UseVisualStyleBackColor = true;
+            this.btnProduct5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnProduct5.Location = new System.Drawing.Point(115, 88);
+            this.btnProduct5.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnProduct5.Name = "btnProduct5";
+            this.btnProduct5.Size = new System.Drawing.Size(103, 79);
+            this.btnProduct5.TabIndex = 4;
+            this.btnProduct5.Text = "¢850";
+            this.btnProduct5.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProduct5.UseVisualStyleBackColor = true;
             // 
-            // bproducto12
+            // btnProduct4
             // 
-            this.bproducto12.Location = new System.Drawing.Point(254, 273);
-            this.bproducto12.Name = "bproducto12";
-            this.bproducto12.Size = new System.Drawing.Size(121, 84);
-            this.bproducto12.TabIndex = 11;
-            this.bproducto12.UseVisualStyleBackColor = true;
+            this.btnProduct4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnProduct4.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.btnProduct4.Location = new System.Drawing.Point(4, 88);
+            this.btnProduct4.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnProduct4.Name = "btnProduct4";
+            this.btnProduct4.Size = new System.Drawing.Size(103, 79);
+            this.btnProduct4.TabIndex = 3;
+            this.btnProduct4.Text = "¢800";
+            this.btnProduct4.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProduct4.UseVisualStyleBackColor = true;
             // 
-            // bproducto13
+            // btnProduct3
             // 
-            this.bproducto13.Location = new System.Drawing.Point(3, 363);
-            this.bproducto13.Name = "bproducto13";
-            this.bproducto13.Size = new System.Drawing.Size(119, 84);
-            this.bproducto13.TabIndex = 12;
-            this.bproducto13.UseVisualStyleBackColor = true;
+            this.btnProduct3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnProduct3.Location = new System.Drawing.Point(226, 3);
+            this.btnProduct3.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnProduct3.Name = "btnProduct3";
+            this.btnProduct3.Size = new System.Drawing.Size(104, 79);
+            this.btnProduct3.TabIndex = 2;
+            this.btnProduct3.Text = "¢600";
+            this.btnProduct3.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProduct3.UseVisualStyleBackColor = true;
             // 
-            // bproducto14
+            // btnProduct2
             // 
-            this.bproducto14.Location = new System.Drawing.Point(128, 363);
-            this.bproducto14.Name = "bproducto14";
-            this.bproducto14.Size = new System.Drawing.Size(120, 84);
-            this.bproducto14.TabIndex = 13;
-            this.bproducto14.UseVisualStyleBackColor = true;
+            this.btnProduct2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnProduct2.Location = new System.Drawing.Point(115, 3);
+            this.btnProduct2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnProduct2.Name = "btnProduct2";
+            this.btnProduct2.Size = new System.Drawing.Size(103, 79);
+            this.btnProduct2.TabIndex = 1;
+            this.btnProduct2.Text = "¢1 450";
+            this.btnProduct2.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProduct2.UseVisualStyleBackColor = true;
             // 
-            // bproducto15
+            // btnProduct1
             // 
-            this.bproducto15.Location = new System.Drawing.Point(254, 363);
-            this.bproducto15.Name = "bproducto15";
-            this.bproducto15.Size = new System.Drawing.Size(121, 84);
-            this.bproducto15.TabIndex = 14;
-            this.bproducto15.UseVisualStyleBackColor = true;
+            this.btnProduct1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnProduct1.Location = new System.Drawing.Point(4, 3);
+            this.btnProduct1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnProduct1.Name = "btnProduct1";
+            this.btnProduct1.Size = new System.Drawing.Size(103, 79);
+            this.btnProduct1.TabIndex = 0;
+            this.btnProduct1.Text = "¢650";
+            this.btnProduct1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnProduct1.UseVisualStyleBackColor = true;
             // 
-            // imageList1
+            // btnPay
             // 
-            this.imageList1.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
-            this.imageList1.ImageSize = new System.Drawing.Size(16, 16);
-            this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
+            this.btnPay.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.btnPay.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPay.ForeColor = System.Drawing.Color.Black;
+            this.btnPay.Location = new System.Drawing.Point(477, 350);
+            this.btnPay.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.btnPay.Name = "btnPay";
+            this.btnPay.Size = new System.Drawing.Size(172, 84);
+            this.btnPay.TabIndex = 1;
+            this.btnPay.Text = "PAGAR";
+            this.btnPay.UseVisualStyleBackColor = false;
+            this.btnPay.Click += new System.EventHandler(this.btnPay_Click);
+            // 
+            // btnAdmin
+            // 
+            this.btnAdmin.Location = new System.Drawing.Point(881, 12);
+            this.btnAdmin.Name = "btnAdmin";
+            this.btnAdmin.Size = new System.Drawing.Size(40, 40);
+            this.btnAdmin.TabIndex = 3;
+            this.btnAdmin.UseVisualStyleBackColor = true;
+            this.btnAdmin.Click += new System.EventHandler(this.btnAdmin_Click);
+            // 
+            // btnCashier
+            // 
+            this.btnCashier.Location = new System.Drawing.Point(881, 63);
+            this.btnCashier.Name = "btnCashier";
+            this.btnCashier.Size = new System.Drawing.Size(40, 40);
+            this.btnCashier.TabIndex = 4;
+            this.btnCashier.UseVisualStyleBackColor = true;
+            this.btnCashier.Click += new System.EventHandler(this.btnCashier_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.Menu;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(933, 450);
+            this.Controls.Add(this.btnCashier);
+            this.Controls.Add(this.btnAdmin);
+            this.Controls.Add(this.btnPay);
             this.Controls.Add(this.tableLayoutPanel1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.Name = "Form1";
-            this.Text = "Welcome - SnackPoint";
+            this.Text = "Snack Point";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.ResumeLayout(false);
@@ -228,22 +316,24 @@
         #endregion
 
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
-        private System.Windows.Forms.ImageList imageList1;
-        private System.Windows.Forms.Button bproducto2;
-        private System.Windows.Forms.Button bproducto3;
-        private System.Windows.Forms.Button bproducto4;
-        private System.Windows.Forms.Button bproducto5;
-        private System.Windows.Forms.Button bproducto6;
-        private System.Windows.Forms.Button bproducto7;
-        private System.Windows.Forms.Button bproducto8;
-        private System.Windows.Forms.Button bproducto9;
-        private System.Windows.Forms.Button bproducto10;
-        private System.Windows.Forms.Button bproducto11;
-        private System.Windows.Forms.Button bproducto12;
-        private System.Windows.Forms.Button bproducto13;
-        private System.Windows.Forms.Button bproducto14;
-        private System.Windows.Forms.Button bproducto15;
-        private System.Windows.Forms.Button bproducto1;
+        private System.Windows.Forms.Button btnPay;
+        private System.Windows.Forms.Button btnProduct15;
+        private System.Windows.Forms.Button btnProduct14;
+        private System.Windows.Forms.Button btnProduct13;
+        private System.Windows.Forms.Button btnProduct12;
+        private System.Windows.Forms.Button btnProduct11;
+        private System.Windows.Forms.Button btnProduct10;
+        private System.Windows.Forms.Button btnProduct9;
+        private System.Windows.Forms.Button btnProduct8;
+        private System.Windows.Forms.Button btnProduct7;
+        private System.Windows.Forms.Button btnProduct6;
+        private System.Windows.Forms.Button btnProduct5;
+        private System.Windows.Forms.Button btnProduct4;
+        private System.Windows.Forms.Button btnProduct3;
+        private System.Windows.Forms.Button btnProduct2;
+        private System.Windows.Forms.Button btnProduct1;
+        private System.Windows.Forms.Button btnAdmin;
+        private System.Windows.Forms.Button btnCashier;
     }
 }
 

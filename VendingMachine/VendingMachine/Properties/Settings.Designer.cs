@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace VendingMachine.Properties
+namespace vendingMachine.Properties
 {
 
 
